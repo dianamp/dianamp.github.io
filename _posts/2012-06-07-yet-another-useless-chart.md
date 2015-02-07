@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yet another useless chart"
+title: "Yet Another Useless Chart"
 description: ""
 category: data
 tags: [data visualization]

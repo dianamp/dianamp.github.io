@@ -3,6 +3,7 @@ layout: post
 title: "Try Less, Think More"
 description: ""
 category: events
+comments: true
 tags: [data, analyze boulder, machine learning]                                                                                                
 ---
 Way back in December, [Owen Zhang](https://www.linkedin.com/pub/owen-zhang/51/aa0/363) of [Data Robot](http://www.datarobot.com) gave an excellent talk to [Analyze Boulder](http://www.meetup.com/Analyze-Boulder/)[^1] (which I co-organize). As the leaderboard winner at [Kaggle](http://www.kaggle.com/), his talk was ostensibly about how he wins data science competitions. But what I took away was an amazingly optimistic philosophy of machine learning. Optimistic in contrast to my fairly cynical (in the most loving way) view, which I have really questioned every since.

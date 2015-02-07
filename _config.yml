@@ -6,7 +6,6 @@ relative_permalinks: true
 markdown:	kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 title:            Diana Pfeil
-tagline:          Diana Pfeil
 url:              http://dianapfeil.com
 paginate:         1
 baseurl:          /
@@ -27,6 +26,10 @@ categories_path : /categories.html
 tags_path : /tags.html
 atom_path: /atom.xml
 rss_path: /rss.xml
+pages_list:
+   About: '/about'
+   Blog: '/blog'
+   Feed: '/atom.xml'
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use.
