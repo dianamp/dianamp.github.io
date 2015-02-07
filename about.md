@@ -4,7 +4,7 @@ title: About
 header: About
 description: ""
 ---
-<img style="float: left; margin-right: 20px; height: 50; width: 50;" src="images/diana.jpg"/>
+<img style="float: left; margin-right: 20px; height: 50; width: 50;" src="/images/diana.jpg"/>
 
 I'm an optimization engineer/data hacker based in Boulder, CO. Besides learning new things and trying to optimize everything around me, I like spending time outdoors with my fam.
 
