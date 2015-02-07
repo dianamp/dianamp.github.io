@@ -29,7 +29,6 @@ rss_path: /rss.xml
 pages_list:
    About: '/about'
    Blog: '/blog'
-   Feed: '/atom.xml'
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use.
