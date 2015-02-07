@@ -3,17 +3,45 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
+markdown:	kramdown
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+title:            Diana Pfeil
+tagline:          Diana Pfeil
+url:              http://dianapfeil.com
 paginate:         1
 baseurl:          /
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Diana Pfeil
+  url:            http://dianapfeil.com
+  email:          dianam@gmail.com
+  github : dianamp
+  twitter : dianam
 
-# Custom vars
-version:          1.0.0
-github:
-  repo:           https://github.com/poole/poole
+production_url : http://dianamp.github.io
+
+# These paths are to the main pages Jekyll-Bootstrap ships with.
+# Some JB helpers refer to these paths; change theme here if needed.
+#
+archive_path: /archive.html
+categories_path : /categories.html
+tags_path : /tags.html
+atom_path: /atom.xml
+rss_path: /rss.xml
+
+# Settings for comments helper
+# Set 'provider' to the comment provider you want to use.
+# Set 'provider' to false to turn commenting off globally.
+#
+comments :
+   provider : disqus
+   disqus :
+     short_name : dianamp
+
+  # Settings for analytics helper
+  # Set 'provider' to the analytics provider you want to use.
+  # Set 'provider' to false to turn analytics off globally.
+  #
+analytics :
+   provider : google
+   google :
+      tracking_id : 'UA-31585787-1'
