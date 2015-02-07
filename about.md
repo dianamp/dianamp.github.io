@@ -1,30 +1,15 @@
 ---
 layout: page
 title: About
+header: About
+description: ""
 ---
+<img style="float: left; margin-right: 20px; height: 50; width: 50;" src="images/diana.jpg"/>
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+I'm an optimization engineer/data hacker based in Boulder, CO. Besides learning new things and trying to optimize everything around me, I like spending time outdoors with my fam.
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I spend my work days at [OptTek Systems](http://opttek.com) doing a fun combination of simulation optimization, straight up optimization, and machine learning. I like using Python when I can, and also use R a lot (happily) and Java (not so happily). 
 
-There are currently two themes built on Poole:
+I have a Ph.D in operations research from [MIT's](http://www.mit.edu) [Operations Research Center](http://www.mit.edu/~orc/). While there I worked with Prof [Hamsa Balakrishnan](http://web.mit.edu/hamsa/www/) on air traffic flow management, with an emphasis on integrating weather forecasts with optimization. 
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Previously, I studied computer science and math at UC Berkeley, and developed software in the machine learning group at Amazon.com.
