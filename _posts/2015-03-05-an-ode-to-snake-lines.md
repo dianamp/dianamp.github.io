@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "An ode to snake lines"
+title: "An Ode to Snake Lines"
 description: ""
 category: optimization
 comments: true
