@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Basics of Data Science"
+title: "Intro to Data Science Workshop"
 description: ""
 category: data
 tags: [data science, teaching]
