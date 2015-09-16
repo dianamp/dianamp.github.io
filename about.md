@@ -4,7 +4,7 @@ title: About
 header: About
 description: ""
 ---
-<img style="float: left; margin-right: 20px; width: 50vh;" src="/images/diana_hhh3.jpg"/>
+<img style="float: left; margin-top: 18px; margin-right: 20px; width: 54vh;" src="/images/diana_hhh3.jpg"/>
 
 I'm an optimization and data enthusiast based in Boulder, CO. 
 
