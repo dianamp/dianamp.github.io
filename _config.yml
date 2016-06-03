@@ -1,6 +1,5 @@
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
 markdown:	kramdown
@@ -47,3 +46,5 @@ analytics :
    provider : google
    google :
       tracking_id : 'UA-31585787-1'
+
+gems: [jekyll-paginate, jekyll-twitter-plugin]
