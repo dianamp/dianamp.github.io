@@ -27,10 +27,10 @@ Things to watch out for:
 
 - Turn off energy saver mode so that the laptop screen deosn't keep shutting off and requiring login.
 - Close all apps so that random alerts don't flash across the screen for everyone to see. Slack and email are the funniest offenders.
-- It may be a good idea to clear search history so that nothing embarraing pops up in case of impromptu googling
+- It may be a good idea to clear search history so that nothing embarrasing pops up in case of impromptu googling
 - If using a mic, emphasize the importance of keeping it close to the speakers' mouth
 
-I've seen so many cases when the speaker has been introduced, walks up to start presenting, and that is when they discover that they can't connect to the projector or that their videos won't play! This is awful for the speaker - they may already be nervous about speaking, and this fiasco does not help them relax. So make it easy on the speaker, and prepare this stuff for them.
+I've seen so many cases when the speaker has been introduced, walks up to start presenting, and *that* is when they discover that they can't connect to the projector or that their videos won't play! This is awful for the speaker - they may already be nervous about speaking, and this fiasco does not help them relax. So make it easy on the speaker, and prepare this stuff for them.
 
 #### Now is not nap time
 The speaker has been introduced, everyone claps, and now it's time to sit back and relax....J/K! 
