@@ -13,7 +13,7 @@ I love me a well-run meetup: when you show up to a room-full (or huge event spac
 
 I've seen people find jobs at meetups, make lasting friendships at meetups, and make connections that can help them find their next exciting thing (I think that's sort of how I ended up on a podcast. Yes, *still* excited about that).
 
-But after co-organizing [Analyze Boulder](http://www.meetup.com/Analyze-Boulder/) (AB) for ~3 years, and co-organizing [WiMLDS Boulder](https://www.meetup.com/Boulder-Women-in-Machine-Learning-and-Data-Science/) for close to 1, I've learned that high-quality and sustainable meetups don't appear out of thin air. So here are my tips for how to run a successful meetup event. This assumes your meetup features a speaker.
+But after co-organizing [Analyze Boulder](http://www.meetup.com/Analyze-Boulder/) (AB) for ~3 years (until recently), and co-organizing [WiMLDS Boulder](https://www.meetup.com/Boulder-Women-in-Machine-Learning-and-Data-Science/) for close to 1, I've learned that high-quality and sustainable meetups don't appear out of thin air. So here are my tips for how to run a successful meetup event. This assumes your meetup features a speaker.
 
 #### Send out reminders
 The action starts before the day of. At AB we sent reminders to our speakers 1-2 weeks out to remind them about creating their slides, to send along speaker guidelines (more on this later), and to ask for slides a few days before the big night so that we could review them and provide feedback.
