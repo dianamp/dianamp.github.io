@@ -8,7 +8,7 @@ tags: [deep learning, machine learning, data science]
 ---
 ![study-group](/images/people-coffee-notes-tea.jpg)
 
-I've recently started a reading group with the friends focused on deep learning. We meet each week at a [great coffee shop](https://ozocoffee.com/), go over an assigned reading or project, and ask each other lots of questions. At least, that's the goal!
+I've recently started a reading group with some friends focused on deep learning. We meet each week at a [great coffee shop](https://ozocoffee.com/), go over an assigned reading or project, and ask each other lots of questions. At least, that's the goal!
 
 As background, everyone in the group has experience with machine learning and is pretty mathematically sophisticated. But the only real pre-requisite when I form a group like this is that everyone is friendly, collaborative, and a non-show off.
 
