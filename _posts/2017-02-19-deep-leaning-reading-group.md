@@ -38,4 +38,4 @@ I really loved this chapter! Highly recommended.
 Implement a feedforward neural network to train [NMIST](http://yann.lecun.com/exdb/mnist/). Similar to the autoencoder exercise, but this time try to do it from scratch using Tensorflow 1.0, which just came out, and is not exactly backwards compatible with the code we wrote beforehand. Also spend some time getting familiar with [Tensorboard](https://www.tensorflow.org/get_started/summaries_and_tensorboard).
 
 ##### Week 7
-The plan is to move onto recurrent neural networks! I'm really psyched to auto-generate some poetry, move on to more interested data sets, and get some GPU action going. Anyone want to give me free GPU credits their favorite cloud platform?
+The plan is to move onto recurrent neural networks! I'm really psyched to auto-generate some poetry, move on to more interesting data sets, and get some GPU action going. Anyone want to give me free GPU credits on their favorite cloud platform?
