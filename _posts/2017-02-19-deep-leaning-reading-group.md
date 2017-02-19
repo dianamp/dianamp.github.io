@@ -25,7 +25,7 @@ Go through [this](http://iamtrask.github.io/2015/07/12/basic-python-network/) su
 Read the chapter on [autoencoders](http://www.deeplearningbook.org/contents/autoencoders.html) from the [Deep Learning Book](http://www.deeplearningbook.org/). Autoencoders sort of blow my mind.
 
 #### Week 4
-Go through [this](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/3_NeuralNetworks/autoencoder.py) example of on autoencoder on the MNIST dataset. Involves Tensorflow so those who haven't tensorflow and read [this](https://www.tensorflow.org/tutorials/mnist/tf/) tutorial.
+Go through [this](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/examples/3_NeuralNetworks/autoencoder.py) example of on autoencoder on the [NMIST](http://yann.lecun.com/exdb/mnist/) dataset. Involves Tensorflow so those who haven't used tensorflow before also read [this](https://www.tensorflow.org/tutorials/mnist/tf/) tutorial.
 
 Had a great argument (heated discussion?) on whether autoencoders can be classified under supervised learning.
 
@@ -38,4 +38,4 @@ I really loved this chapter! Highly recommended.
 Implement a feedforward neural network to train [NMIST](http://yann.lecun.com/exdb/mnist/). Similar to the autoencoder exercise, but this time try to do it from scratch using Tensorflow 1.0, which just came out, and is not exactly backwards compatible with the code we wrote beforehand. Also spend some time getting familiar with [Tensorboard](https://www.tensorflow.org/get_started/summaries_and_tensorboard).
 
 ##### Week 7
-The plan is to move onto recurrent neural networks! Will post Part 2 with follow-on topics. I'm really psyched to auto-generate some poetry.
+The plan is to move onto recurrent neural networks! I'm really psyched to auto-generate some poetry, move on to more interested data sets, and get some GPU action going. Anyone want to give me free GPU credits their favorite cloud platform?
