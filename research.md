@@ -10,7 +10,7 @@ My Ph.D. focused on air traffic flow management. Specifically, I developed mathe
 
 #### Thesis
 
-Optimization of Airport Terminal-Area Air Traffic Operations under Uncertain Weather Conditions [\[pdf\]](docs/DianaPfeilThesis.pdf)
+Optimization of Airport Terminal-Area Air Traffic Operations under Uncertain Weather Conditions [\[pdf\]](http://dianapfeil.com/docs/DianaPfeilThesis.pdf)
 
 
 #### Publications
