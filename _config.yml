@@ -7,8 +7,7 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 title:            Diana Pfeil
 url:              http://dianapfeil.com
 paginate:         1
-baseurl:          /
-root: 		  /
+baseurl:          dianamp.github.io
 author:
   name:           Diana Pfeil
   url:            http://dianapfeil.com
