@@ -8,6 +8,7 @@ title:            Diana Pfeil
 url:              http://dianapfeil.com
 paginate:         1
 baseurl:          /
+root: 		  /
 author:
   name:           Diana Pfeil
   url:            http://dianapfeil.com

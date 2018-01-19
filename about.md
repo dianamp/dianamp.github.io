@@ -4,11 +4,11 @@ title: About
 header: About
 description: ""
 ---
-<img style="float: left; margin-top: 18px; margin-right: 20px; width: 54vh;" src="/images/diana_hhh3.jpg"/>
+<img style="float: left; margin-top: 18px; margin-right: 20px; width: 54vh;" src="/images/diana_wlp.jpg"/>
 
 Hello! I'm a data enthusiast based in Boulder, CO.
 
-I spend my work days hacking on data (and doing a mishmash of startup-y tasks) as CTO of [Resilient Ops](http://resilientops.com), where we are helping air travelers make smarter decisions by predicting flight delay hours, days, and months in advance. I'm also a co-organizer of [Women in Data Science & Machine Learning Boulder](https://www.meetup.com/Boulder-Women-in-Machine-Learning-and-Data-Science/) and formely co-organized the (still) fantastic data meetup [Analyze Boulder](http://http://www.meetup.com/Analyze-Boulder/).
+I spend my work days hacking on data (and doing a mishmash of startup-y tasks) as CTO of [flightsayer](https://flightsayer.com), where we predicting flight delay for corporate travelar. I'm also a co-organizer of [Women in Data Science & Machine Learning Boulder](https://www.meetup.com/Boulder-Women-in-Machine-Learning-and-Data-Science/) and formely co-organized the fantastic data meetup [Analyze Boulder](http://http://www.meetup.com/Analyze-Boulder/).
 
 Besides learning new things and trying to optimize everything around me, I like teaching and speaking (and am increasingly interested in technical leadership), and spending time outdoors with my fam.
 
