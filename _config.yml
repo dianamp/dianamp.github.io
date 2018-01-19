@@ -47,4 +47,7 @@ analytics :
    google :
       tracking_id : 'UA-31585787-1'
 
-gems: [jekyll-paginate, jekyll-twitter-plugin]
+plugins:
+  - jemoji
+  - jekyll-paginate
+  - jekyll-twitter-plugin
