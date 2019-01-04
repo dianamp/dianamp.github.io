@@ -7,7 +7,9 @@ permalink: /about/
 
 Hello! I'm a data enthusiast based in Boulder, CO.
 
-I spend my work days hacking on data (and doing a mishmash of startup-y tasks) as CTO of [flightsayer](https://flightsayer.com), where we predicting flight delay for corporate travelar. I'm also a co-organizer of [Women in Data Science & Machine Learning Boulder](https://www.meetup.com/Boulder-Women-in-Machine-Learning-and-Data-Science/) and formely co-organized the fantastic data meetup [Analyze Boulder](http://http://www.meetup.com/Analyze-Boulder/).
+I spend my work days as CTO at [Lumo](https://thinklumo.com), where we are doing machine learning for air travel, by predicting flight delay for the travel industry. 
+
+I'm also a co-organizer of [Women in Data Science & Machine Learning Boulder](https://www.meetup.com/Boulder-Women-in-Machine-Learning-and-Data-Science/) and formely co-organized the fantastic data meetup [Analyze Boulder](http://http://www.meetup.com/Analyze-Boulder/). Each May I'm the track lead for the data science track at [Boulder Startup Week](https://boulderstartupweek.com/)
 
 Besides learning new things and trying to optimize everything around me, I like teaching and speaking (and am increasingly interested in technical leadership), and spending time outdoors with my fam.
 
