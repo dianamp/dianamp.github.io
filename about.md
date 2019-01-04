@@ -1,8 +1,7 @@
 ---
 layout: page
 title: About
-header: About
-description: ""
+permalink: /about/
 ---
 <img style="float: left; margin-top: 18px; margin-right: 20px; width: 54vh;" src="/images/diana_wlp.jpg"/>
 

@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Research
-header: Research
-description: ""
+permalink: /research/
 ---
 My research interests lie in the applications of operations research, including logistics and supply chains, transportation systems, machine learning, and data mining. I like working with large-scale systems and with lots of data.
 
