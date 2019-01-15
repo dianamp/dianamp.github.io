@@ -8,5 +8,6 @@
 layout: home
 ---
 
-# Great to have you here!
-Check out more [about me](about) or [the occasional post](blog) I write.
+
+![mountains](/images/ostra.jpg)
+
