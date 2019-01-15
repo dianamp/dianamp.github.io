@@ -45,6 +45,7 @@ plugins:
 
 header_pages:
   - about.md
+  - speaking.md
   - blog.md
 
 show_excerpts: true
