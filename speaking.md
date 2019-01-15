@@ -12,7 +12,7 @@ Sometimes I branch out to speak about CTOing, data ethics, the intersection of e
 
 I'd be happy to speak at your event, especially on one of the above topics!
 
-<img src="/images/talk_ab.jpg" width="49%"/> <img src="/images/wws_fireside.jpg" width="49%"/> 
+<img src="/images/ab_2017.jpg" width="49%"/> <img src="/images/bsw_2018.jpg" width="49%"/> 
 
 ### Past Talks
 
