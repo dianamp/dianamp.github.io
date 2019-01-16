@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img style="float: left; margin-top: 18px; margin-right: 20px; width:54vh;" src="/images/diana_wlp.jpg"/>
+<img style="float: left; margin-top: 18px; margin-right: 20px; width:40%;" src="/images/diana_wlp.jpg"/>
 
 Hello! I'm a data enthusiast based in Boulder, CO.
 
