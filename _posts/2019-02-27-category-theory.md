@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Monoidal Categories and other fun
+title: "Monoidal Categories and other fun"
 description: ""
 category: functional programming
 comments: true
