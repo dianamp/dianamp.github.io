@@ -2,7 +2,7 @@
 layout: post
 title: "Extreme emotion as a gift"
 description: ""
-category: decisions
+category: leadership
 comments: true
 tags: [reading]
 ---
