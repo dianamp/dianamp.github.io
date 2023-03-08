@@ -1,15 +1,14 @@
 ---
 layout: post
-title: "Common Failure modes of ML Projects"
+title: "Common failure modes of machine learning projects"
 description: ""
 category: leadership
 comments: true
 tags: [reading]
 ---
+ML projects are inherently riskier than software projects, because we don’t know in advance how well, and if, we can solve a given problem. As a result of this risk, ML projects fail more often. Running successful and efficient ML projects (aka avoiding taking 1 year to deploy a model that could have been done in 2 months and that actually solves a problem for the business) requires that common pitfalls for these projects are mitigated.
 
-ML projects are inherently riskier than software projects, because we don’t know in advance how well (and if) we can solve a problem. Because of this risk, ML projects fail more often, and there are a few very common failure modes that I've seen repeatedly.
-
-Running successful and efficient ML projects (aka avoiding taking 1 year to deploy a model that could have been done in 2 months) requires that common pitfalls for these projects are mitigated. This section describes four common failure modes.
+There are a few very common failure modes that I've seen repeatedly, and this article describes five of them.
 
 ### Mismatched expectations
 
