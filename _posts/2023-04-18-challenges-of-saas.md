@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Speaking at Informs Business Analytic Conference"
+title: "Speaking at Informs Business Analytics Conference"
 description: ""
 category: speaking
 comments: true
