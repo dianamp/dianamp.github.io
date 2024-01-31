@@ -45,6 +45,7 @@ plugins:
 
 header_pages:
   - about.md
+  - advising.md
   - speaking.md
   - blog.md
 
