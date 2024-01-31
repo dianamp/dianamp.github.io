@@ -1,4 +1,4 @@
----OA
+---
 layout: page
 title: AI Advising
 permalink: /advising/
