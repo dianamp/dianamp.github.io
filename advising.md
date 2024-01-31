@@ -4,7 +4,7 @@ title: AI Advising
 permalink: /advising/
 ---
 
-<img style="float: left; margin-top: 18px; margin-right: 20px; width:100%;" src="/images/dall-e-meeting-setting.png"/>
+<img style="float: left; margin-top: 18px; margin-bottom: 18px; margin-right: 20px; width:100%;" src="/images/dall-e-meeting-setting.png"/>
 
 I help startups navigate the world of AI. With a deep background in AI and machine learning (early ML engineer at Amazon, PhD from MIT), and over 10 years of experience across seed stage to growth stage startups (including as a 2-time AI startup CTO), I am here to guide your startup through AI integration.
 
