@@ -15,6 +15,7 @@ I help startups navigate the world of AI. With a deep background in AI and machi
 
 * **Technology Roadmapping**: Identify and implement the most effective AI technologies to move your business forward. Are you struggling to craft a policy for using LLMs such as chatGPT, tailored to the needs and stage of your company? We can put this together and roll it out so that your team is taking advantage of the productivity boost that comes from AI, while considering risk and legalities.
 
-* **General AI Advising**: I’ve seen many ML projects fail (and others succeed), and am familiar with the biggest pitfalls that stand in the way of success (data issues, ML engineer training, building a shiny thing with no actual market, the list goes on). We can create a plan to avoid these, to increase your chance of success.
+* **General AI Advising**: I’ve seen many ML projects fail (and others succeed), and am familiar with the biggest pitfalls that stand in the way of success (data issues, ML engineer training, building a shiny thing with no actual market, the list goes on). We can review your product strategy and roadmap and de-risk, so that you avoid wasting precious time.
 
-{% include button.html url="https://www.linkedin.com/in/dianampfeil/" %}
+
+<button name="contact-me" style="background-color: #008CBA; border: none; color: white; padding: 12px 24px; text-align: center; text-decoration: none; display: inline-block; font-size: 18px; display: flex; justify-content: center" onclick="https://www.linkedin.com/in/dianampfeil/">Contact Me</button>
