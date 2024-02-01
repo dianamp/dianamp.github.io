@@ -17,6 +17,9 @@ I'd be happy to speak at your event, especially on one of the above topics!
 ### Past Talks
 
 --- | --- | ---
+Oct 2023 | Panel: CTOs Doing AI | [0111 Conference](https://7ctos.com/0111conference) | San Diego, CA
+Sep 2023 | Panel: Are You for Real? Identifying and Detecting AI-Generated Content | [Copyright and Technology Conference](https://copyrightandtechconf.com/) | NYC
+April 2020 | [Data Ethics](https://www.youtube.com/watch?v=QMbzsVatZYA) | Data Brew | Podcast / Vidcast
 Sep 2018 | Panel: Building Developer Communities with Purpose | Denver Startup Week | Denver, CO
 Jul 2018 | Panel: Perspectives on Diversity in Open Source Contributions | Boulder Python | Boulder, CO
 May 2018 | Panel: How to Become a Data Scientist (moderator) | [Boulder Startup Week](https://boulderstartupweek.com/) | Boulder, CO
