@@ -20,7 +20,7 @@ I'd be happy to speak at your event, especially on one of the above topics!
 Oct 2023 | Panel: CTOs Doing AI | [0111 Conference](https://7ctos.com/0111conference) | San Diego, CA
 Sep 2023 | Panel: Are You for Real? Identifying and Detecting AI-Generated Content | [Copyright and Technology Conference](https://copyrightandtechconf.com/) | NYC
 Apr 2021 | [Data Ethics](https://www.youtube.com/watch?v=QMbzsVatZYA) | Data Brew | Podcast / Vidcast
-Mar 2019 | Data ethics: but what could go wrong? | Google Developer Group Boulder Meetup | Boulder, CO
+Mar 2019 | Data Ethics: But What Could Go Wrong? | Google Developer Group Boulder Meetup | Boulder, CO
 Sep 2018 | Panel: Building Developer Communities with Purpose | Denver Startup Week | Denver, CO
 Jul 2018 | Panel: Perspectives on Diversity in Open Source Contributions | Boulder Python | Boulder, CO
 May 2018 | Panel: How to Become a Data Scientist (moderator) | [Boulder Startup Week](https://boulderstartupweek.com/) | Boulder, CO
