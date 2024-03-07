@@ -7,7 +7,7 @@ comments: true
 tags: [cto, startups]
 ---
 
-One of the areas that is top of mind for me as a CTO is whether the engineering organization is making great decisions. Decisions that will help rather than hinder the business and the team, that are aligned with the company strategy and needs.
+One of the areas that is top of mind for me as a CTO is whether the engineering organization is making great decisions. Great decisions will help rather than hinder the business and the team and are aligned with the company strategy and needs.
 
 Making the wrong decisions can be make-or-break for a startup because it can truly slow down execution (if it's necessary
 to claw back from a decision or do a major re-write) or degrade culture (if factions form on each side of a decision, or there is a stream of unproductive negativity following one).
