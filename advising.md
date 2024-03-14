@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: AI Advising
 permalink: /advising/
 ---
@@ -17,7 +17,5 @@ I help startups navigate the world of AI. With a deep background in AI and machi
 
 * **General AI Advising**: I’ve seen many ML projects fail (and others succeed), and am familiar with the biggest pitfalls that stand in the way of success (data issues, ML engineer training, building a shiny thing with no actual market, the list goes on). We can review your product strategy and roadmap and de-risk, so that you avoid wasting precious time.
 
-<center style="padding-top: 20px">
-<a href="https://www.linkedin.com/in/dianampfeil/" target="_blank">
-<button type="button" style="float: center; background-color: #008CBA; border: none; color: white; padding: 12px 24px; text-align: center; text-decoration: none; display: inline-block; font-size: 18px;">Contact Me</button></a>
-</center>
+
+{% include button.html button_url="https://calendly.com/dianamp" button_name="Setup a Call" button_class="custom btn-primary" %}
