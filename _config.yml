@@ -22,8 +22,9 @@ url: "http://dianapfeil.com" # the base hostname & protocol for your site, e.g. 
 author: Diana Pfeil
 twitter_username: dianam
 linkedin_username: dianampfeil
+google_analytics:
+  id: G-WLN1XVZ2RK
 #github_username:  dianamp
-google_analytics: G-WLN1XVZ2RK
 
 # Build settings
 markdown: kramdown
