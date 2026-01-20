@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How does Fine-tuning change a model's provenance?"
+title: "How does fine-tuning change a model's provenance?"
 description: ""
 category: ai
 comments: true
